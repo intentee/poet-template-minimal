@@ -1,0 +1,20 @@
+@import url("./_fonts.css");
+
+body {
+  align-items: center;
+  background-color: #ffffff;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter", sans-serif;
+}
+
+.page {
+  align-items: center;
+  display: flex;
+  min-height: 100dvh;
+}
+
+.page-title {
+  font-size: 130px;
+}
